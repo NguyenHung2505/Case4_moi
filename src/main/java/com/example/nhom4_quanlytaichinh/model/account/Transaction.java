@@ -1,5 +1,6 @@
 package com.example.nhom4_quanlytaichinh.model.account;
 
+import com.example.nhom4_quanlytaichinh.model.Wallet;
 import com.fasterxml.jackson.annotation.JsonFormat;
 
 import javax.persistence.*;

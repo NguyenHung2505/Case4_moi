@@ -1,4 +1,4 @@
-package com.example.nhom4_quanlytaichinh.model.account;
+package com.example.nhom4_quanlytaichinh.model;
 
 
 import com.example.nhom4_quanlytaichinh.model.account.MoneyType;
@@ -86,3 +86,4 @@ public class Wallet {
         this.user = user;
     }
 }
+//
